@@ -1,0 +1,7 @@
+name: NoPortal4U
+version: '${project.version}'
+main: me.Ev1dent.NoPortal4U.NPMain
+api-version: 1.18
+commands:
+  endportals:
+    description: idk
